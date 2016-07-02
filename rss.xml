@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[a family living life together]]></title>
+        <description><![CDATA[a family living life together]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Jul 2016 20:26:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Conrad and Daddy (Day 1)]]></title>
+            <description><![CDATA[<article><h1>Conrad and Daddy (Day 1)</h1><p>One of my favorite pictures - capturing a defining moment in my life ... the day I became a daddy, holding my first born and watching him snuggle up to and yawn.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/741b65c3ce743b48ed8c2f8ba066accf/noop.jpg?input=https%3A%2F%2Flh3.googleusercontent.com%2F-ZqF60ga1nPU%2FUX_izFSvewI%2FAAAAAAAAAMc%2FHBOf2JPEa1IY4-qEGfKmdQdp3Aa4s3RiQCCo%2Fs912%2F55818-IMG_6991bw.jpg"></article>]]></description>
+            <link>https://lh3.googleusercontent.com/-ZqF60ga1nPU/UX_izFSvewI/AAAAAAAAAMc/HBOf2JPEa1IY4-qEGfKmdQdp3Aa4s3RiQCCo/s912/55818-IMG_6991bw.jpg</link>
+            <guid isPermaLink="false">c2d2e02f-b819-4d6d-a9ac-3749236be842</guid>
+            <pubDate>Sat, 02 Jul 2016 20:26:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
