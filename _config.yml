@@ -1,20 +1,22 @@
-typography_spectrum: 0.36842348612844944
+typography_spectrum: 0.49293051939457655
 color:
-  brandStrength: 0.7126288423314691
-  lightness: 0.5672432105056942
-  saturation: 0.3570054713636637
-  rhythmicContrast: 0.7692198189906776
+  brandStrength: 0.5099346700590104
+  lightness: 0.23611184186302125
+  saturation: 0.009646255057305098
+  rhythmicContrast: 0.9382617608644068
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
-layout_spectrum: 0.13667776621878147
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+layout_spectrum: 0.5952105142641813
 author:
   name: Clinton Cohagan
   email: ccohagan@gmail.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fccafd87-a566-4b57-9775-bb4caf166c1d.jpg
 name: the cohagans
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d7444c2-568c-49d9-a8ef-5151df833202.jpg
 title: a family living life together
