@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-07-02T20:04:38.142Z'
+datePublished: '2016-07-02T20:04:42.314Z'
 author: []
-dateModified: '2016-07-02T20:04:37.729Z'
+dateModified: '2016-07-02T20:04:41.919Z'
 title: ''
 description: >-
   Daddy and Conrad are very lucky to have these 2 beautiful girls to call mommy
   and baby in our lives.
 sourcePath: >-
   _posts/2016-07-02-daddy-and-conrad-are-very-lucky-to-have-these-2-beautiful-gi.md
-starred: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
