@@ -1,0 +1,14 @@
+layout_spectrum: 0.5952105142641813
+typography_spectrum: 0.49293051939457655
+color:
+  brandStrength: 0.5099346700590104
+  lightness: 0.23611184186302125
+  saturation: 0.009646255057305098
+  rhythmicContrast: 0.9382617608644068
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: cohagans
