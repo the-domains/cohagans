@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-07-02T20:05:01.087Z'
+datePublished: '2016-07-02T20:15:54.667Z'
+sourcePath: >-
+  _posts/2016-07-02-one-of-my-favorite-pictures-capturing-a-defining-moment-in.md
 author: []
-dateModified: '2016-07-02T20:04:46.280Z'
+dateModified: '2016-07-02T20:13:43.837Z'
 title: ''
 description: >-
   One of my favorite pictures - capturing a defining moment in my life ... the
   day I became a daddy, holding my first born and watching him snuggle up to and
   yawn.
-sourcePath: >-
-  _posts/2016-07-02-one-of-my-favorite-pictures-capturing-a-defining-moment-in.md
 starred: true
 inFeed: true
 hasPage: true
