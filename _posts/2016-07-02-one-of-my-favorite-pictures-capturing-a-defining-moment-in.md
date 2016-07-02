@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-07-02T20:03:44.838Z'
+datePublished: '2016-07-02T20:04:38.144Z'
 author: []
-dateModified: '2016-07-02T20:03:39.053Z'
+dateModified: '2016-07-02T20:04:37.702Z'
 title: ''
 description: >-
   One of my favorite pictures - capturing a defining moment in my life ... the
   day I became a daddy, holding my first born and watching him snuggle up to and
   yawn.
-starred: false
 sourcePath: >-
   _posts/2016-07-02-one-of-my-favorite-pictures-capturing-a-defining-moment-in.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
