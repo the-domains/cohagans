@@ -1,16 +1,16 @@
-typography_spectrum: 0.49293051939457655
+typography_spectrum: 0.7895780291873962
 color:
-  brandStrength: 0.5099346700590104
-  lightness: 0.23611184186302125
-  saturation: 0.009646255057305098
-  rhythmicContrast: 0.9382617608644068
+  brandStrength: 0.9706977449823171
+  lightness: 0.7194478502497077
+  saturation: 0.7097659022547305
+  rhythmicContrast: 0.21713176113553345
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-layout_spectrum: 0.5952105142641813
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+layout_spectrum: 0.3453001787420362
 author:
   name: Clinton Cohagan
   email: ccohagan@gmail.com
