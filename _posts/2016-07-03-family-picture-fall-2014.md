@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-07-03T03:20:53.894Z'
+datePublished: '2016-07-03T03:23:07.660Z'
+sourcePath: _posts/2016-07-03-family-picture-fall-2014.md
 isBasedOnUrl: 'https://drive.google.com/file/d/0B_2Mkmq3ANQlem4tb3hfblVXZWs/view?usp=sharing'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-03T03:20:40.778Z'
+dateModified: '2016-07-03T03:23:02.796Z'
 title: Family Picture Fall 2014
 app_links: []
 publisher:
@@ -14,7 +15,6 @@ publisher:
   domain: drive.google.com
 description: Baby Eleanor is in there somewhere ...
 starred: false
-sourcePath: _posts/2016-07-03-family-picture-fall-2014.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -22,4 +22,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://lh4.googleusercontent.com/A1sSZS-b2L2jJcUR9AV-QG0pCXNueKd7L34roV6ri8YEk47jffUPFg=w1200-h630-p" /><h1>Family Picture Fall 2014</h1><p>Baby Eleanor is in there somewhere ...</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0ff6957ca06102cb25feb539cdef0f00/noop?input=https%3A%2F%2Flh4.googleusercontent.com%2FA1sSZS-b2L2jJcUR9AV-QG0pCXNueKd7L34roV6ri8YEk47jffUPFg%3Dw1200-h630-p" /><h1>Family Picture Fall 2014</h1><p>Baby Eleanor is in there somewhere ...</p></article>
