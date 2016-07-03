@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-07-03T02:58:13.098Z'
+datePublished: '2016-07-03T03:00:10.759Z'
 sourcePath: _posts/2016-07-03-mommy-and-eleanor.md
 author: []
-dateModified: '2016-07-03T02:58:04.981Z'
+dateModified: '2016-07-03T03:00:07.030Z'
 title: Mommy and Eleanor
 description: >-
   Daddy and Conrad are very lucky to have these 2 beautiful girls to call mommy
