@@ -4,8 +4,15 @@
         <description><![CDATA[a chronicle of our little family]]></description>
         <link>https://thegrid.ai/cohagans/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 03:38:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2016 03:38:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cohagans/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mommy and Eleanor]]></title>
+            <description><![CDATA[<article><h1>Mommy and Eleanor</h1><p>Daddy and Conrad are very lucky to have these 2 beautiful girls to call mommy and baby in our lives.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdb0d27a868cf8ef35bdc599c0a73c220f09bb28.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cohagans/mommy-and-eleanor/index.html</link>
+            <guid isPermaLink="false">4201496e-520c-4886-a4ac-7a6055a3da1b</guid>
+            <pubDate>Sun, 03 Jul 2016 03:38:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Family Photo Fall 2014]]></title>
             <description><![CDATA[<article><h1>Family Photo Fall 2014</h1><p>Eleanor is in there somewhere ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b40e76c259ad246d32927d8118f787a5d6bab090.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://lh3.googleusercontent.com/-ZqF60ga1nPU/UX_izFSvewI/AAAAAAAAAMc/HBOf2JPEa1IY4-qEGfKmdQdp3Aa4s3RiQCCo/s912/55818-IMG_6991bw.jpg</link>
             <guid isPermaLink="false">c2d2e02f-b819-4d6d-a9ac-3749236be842</guid>
             <pubDate>Sun, 03 Jul 2016 03:35:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mommy and Eleanor]]></title>
-            <description><![CDATA[<article><h1>Mommy and Eleanor</h1><p>Daddy and Conrad are very lucky to have these 2 beautiful girls to call mommy and baby in our lives.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdb0d27a868cf8ef35bdc599c0a73c220f09bb28.jpg"></article>]]></description>
-            <link>https://thegrid.ai/cohagans/mommy-and-eleanor/index.html</link>
-            <guid isPermaLink="false">4201496e-520c-4886-a4ac-7a6055a3da1b</guid>
-            <pubDate>Sun, 03 Jul 2016 03:00:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
