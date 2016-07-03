@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-03T03:34:25.465Z'
+datePublished: '2016-07-03T03:38:26.309Z'
 sourcePath: _posts/2016-07-03-family-photo-fall-2014.md
 author: []
-dateModified: '2016-07-03T03:34:22.596Z'
+dateModified: '2016-07-03T03:38:25.933Z'
 title: Family Photo Fall 2014
 description: Eleanor is in there somewhere ...
-starred: false
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
