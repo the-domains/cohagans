@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-03T02:59:11.956Z'
+datePublished: '2016-07-03T03:02:27.871Z'
 sourcePath: _posts/2016-07-02-family-of-three.md
 isBasedOnUrl: >-
   https://lh3.googleusercontent.com/-CvK1OXlqtpg/U0NuvmKe5OI/AAAAAAAAFEc/2pgx_EJiQAIjHnKkFA4VE0N6ks6VNNjPgCCo/s912/CohagenM.jpg
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-03T02:58:59.039Z'
+dateModified: '2016-07-03T03:02:22.541Z'
 title: Family of three
 app_links: []
 publisher:
@@ -27,4 +27,4 @@ _type: MediaObject
 
 Family picture when Conrad was 1 year old.
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/419d26d5ea8f03a522aeab973cf9be08/noop.jpg?input=https%3A%2F%2Flh3.googleusercontent.com%2F-CvK1OXlqtpg%2FU0NuvmKe5OI%2FAAAAAAAAFEc%2F2pgx_EJiQAIjHnKkFA4VE0N6ks6VNNjPgCCo%2Fs912%2FCohagenM.jpg" /><h1>Family of Three</h1><p>Family picture when Conrad was 1 year old.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/685215e9917a112eb330e344a6d04549566798e4.jpg" /></article>
