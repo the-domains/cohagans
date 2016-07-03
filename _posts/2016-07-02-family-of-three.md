@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-03T03:33:03.309Z'
+datePublished: '2016-07-03T03:33:45.359Z'
 sourcePath: _posts/2016-07-02-family-of-three.md
 isBasedOnUrl: >-
   https://lh3.googleusercontent.com/-CvK1OXlqtpg/U0NuvmKe5OI/AAAAAAAAFEc/2pgx_EJiQAIjHnKkFA4VE0N6ks6VNNjPgCCo/s912/CohagenM.jpg
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-03T03:32:55.047Z'
+dateModified: '2016-07-03T03:33:34.739Z'
 title: Family of three
 app_links: []
 publisher:
